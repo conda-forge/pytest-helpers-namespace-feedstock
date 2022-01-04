@@ -1,5 +1,5 @@
 {% set name = "pytest-helpers-namespace" %}
-{% set version = "2021.4.29" %}
+{% set version = "2021.12.29" %}
 
 
 package:
@@ -8,7 +8,7 @@ package:
 
 source:
   url: https://pypi.io/packages/source/{{ name[0] }}/{{ name }}/pytest-helpers-namespace-{{ version }}.tar.gz
-  sha256: 183524e3db4e2a1fea92e0ca3662a624ba44c9f3568da15679d7535ba6838a6a
+  sha256: 792038247e0021beb966a7ea6e3a70ff5fcfba77eb72c6ec8fd6287af871c35b
 
 build:
   number: 0
